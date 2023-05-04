@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+}
+html{
+  
+
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(#a9a9a9, #cbcbcb );
+  min-height: 100vh;
+}
+
+.container{
+
+
+  width: 1000px;
+  margin: 0 auto;
+}
